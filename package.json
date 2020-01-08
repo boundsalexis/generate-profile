@@ -1,0 +1,30 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "Generates user's profile from their github account",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "electron": "^5.0.12",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boundsalexis/profile-generator.git"
+  },
+  "keywords": [
+    "profile",
+    "generator"
+  ],
+  "author": "Alexis Bounds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boundsalexis/profile-generator/issues"
+  },
+  "homepage": "https://github.com/boundsalexis/profile-generator#readme"
+}
